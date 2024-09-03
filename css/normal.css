@@ -1,0 +1,28 @@
+header{ height        : 150px;
+
+}
+
+main{ padding-top:50px ; padding-bottom:50px ;
+
+}
+
+.ima{ width: 400px; height: 300px;
+     
+}
+
+section{ display: flex;
+
+}
+
+
+
+.orbitron{
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+h2{ color: azure;
+
+}
